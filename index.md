@@ -9,7 +9,7 @@ header:
 ---
 
 International Workshop on Ontologies for Autonomous Robotics (ROBONTICS 2020) @ Bolzano Summer of Knowledge (BOSK 2020), September 13, Bolzano, Italy
-https://robontics2020.github.io
+[https://robontics2020.github.io](https://robontics2020.github.io)
 
 
 **WORKSHOP SCOPE AND AIM**
@@ -63,13 +63,14 @@ Participants are invited to submit original short papers (from 4 to 6 pages + re
 
 Papers presenting initial or ongoing research are welcome; so are position papers delineating robotics problems and/or discussing the suitability of knowlege engineering approaches to solve such problems.
 
-All the contributions to the workshop must be submitted according to the LNCS format and must comply with the LNCS formatting guidelines available at http://www.springer.com/series/7899. Submitted papers must not exceed 6 pages (not including references).
+All the contributions to the workshop must be submitted according to the LNCS format and must comply with the LNCS formatting guidelines available at [http://www.springer.com/series/7899](http://www.springer.com/series/7899). Submitted papers must not exceed 6 pages (not including references).
 
 Papers will be refereed and accepted on the basis of their scientific merit, originality, and relevance to the workshop. Each paper will be reviewed by two Program Committee members.
 
-Papers must be submitted electronically in PDF, using this link: http://easychair.org/conferences/?conf=jowo2020
+Papers must be submitted electronically in PDF, using this link: 
+- [http://easychair.org/conferences/?conf=jowo2020](http://easychair.org/conferences/?conf=jowo2020)
 
 
 **PUBLICATION**
 
-Accepted contributions to the workshop will be published in an open access CEUR volume as part of the new IAOA series (see http://ceur-ws.org/iaoa.html).
+Accepted contributions to the workshop will be published in an open access CEUR volume as part of the new IAOA series (see [http://ceur-ws.org/iaoa.html](http://ceur-ws.org/iaoa.html)).
